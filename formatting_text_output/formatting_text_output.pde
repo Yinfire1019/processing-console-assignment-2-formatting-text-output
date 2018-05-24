@@ -23,9 +23,9 @@ void setup() {
          int point2 = 4;  //string the score of team2
    
    String team3name = "lion";
-   int win3 = 4;
-   int losses3 = 5;
-   int points3 = 5; 
+      int win3 = 4;
+        int losses3 = 5;
+         int points3 = 5; //string the score of team3 
   
 
 
