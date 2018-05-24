@@ -18,14 +18,14 @@ void setup() {
          int points = 3 ;  //string and int the score of team1
   
    String team2name = "Dog";
-   int win2 = 2;
-   int losses2 = 3;
-   int point2 = 4;
+     int win2 = 2;
+       int losses2 = 3;
+         int point2 = 4;  //string the score of team2
    
    String team3name = "lion";
    int win3 = 4;
    int losses3 = 5;
-   int points3 = 5;
+   int points3 = 5; 
   
 
 
