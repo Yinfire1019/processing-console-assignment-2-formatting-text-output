@@ -10,13 +10,12 @@ void setup() {
    String team = "Team";
      String win = "Wins";
        String lose = "Losses";
-   String point = "points";  //string the title of the table
-   
+         String point = "points";  //string the title of the table
    
    String team1name = "Cat";
-   int team1 = 1;
-   int losses = 2 ;
-   int points = 3 ;
+     int team1 = 1;
+       int losses = 2 ;
+         int points = 3 ;  //string and int the score of team1
   
    String team2name = "Dog";
    int win2 = 2;
