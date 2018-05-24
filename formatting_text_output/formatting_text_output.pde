@@ -2,7 +2,7 @@
  * <formatting-text-output>
  * by <Fengyuan>
  * 
- * <Two sentence description of program>
+ * <create a table of sprots team>
  * 
  */
  
