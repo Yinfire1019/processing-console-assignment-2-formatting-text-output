@@ -29,10 +29,10 @@ void setup() {
   
 
 
-   println (team + "\t" + win + "\t" + lose + "\t" + point);
-   println (team1name + "\t" + team1 + "\t" + losses + "\t" + points);
-   println (team2name + "\t" + win2 + "\t" + losses2 + "\t" + point2);
-   println (team3name + "\t" + win3 + "\t" + losses3 + "\t" + points3);
+   println (team + "\t" + win + "\t" + lose + "\t" + point);//print the title out
+     println (team1name + "\t" + team1 + "\t" + losses + "\t" + points);//print the team1 name and score out
+       println (team2name + "\t" + win2 + "\t" + losses2 + "\t" + point2);//print the team2 name and score out
+         println (team3name + "\t" + win3 + "\t" + losses3 + "\t" + points3); //print the team3 name and score out
 
 }
 
